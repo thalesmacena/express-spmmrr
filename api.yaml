@@ -1,0 +1,24 @@
+---
+openapi: 3.0.3
+info:
+  title: GoBarber
+  description: Gobarber Back-end
+  version: '1.0'
+servers:
+- url: process.env.APP_URL
+  description: back-end of application
+paths:
+  "/example":
+    get:
+      summary: Example Summary
+      description: Example Ddescription
+      responses:
+        '200':
+          description: Example Response
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+

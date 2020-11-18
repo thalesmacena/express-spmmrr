@@ -1,0 +1,41 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "queue": "nodemon src/queue.js",
+    "dev:debug": "nodemon --inspect src/server.js",
+    "api": "yarn redoc-cli serve 'api.yaml'"
+  },
+  "dependencies": {
+    "@sentry/node": "^5.27.4",
+    "add": "^2.0.6",
+    "bcrypt": "^5.0.0",
+    "bee-queue": "^1.3.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.10.15",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "redoc": "^2.0.0-rc.45",
+    "sequelize": "^6.3.5",
+    "sucrase": "^3.16.0",
+    "yarn": "^1.22.10",
+    "youch": "^2.1.1",
+    "yup": "^0.29.3"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-prettier": "^6.15.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-prettier": "^3.1.4",
+    "nodemon": "^2.0.6",
+    "prettier": "^2.1.2",
+    "redoc-cli": "^0.10.1",
+    "sequelize-cli": "^6.2.0"
+  }
+}
