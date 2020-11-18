@@ -1,5 +1,7 @@
-<div style="align: center">
-  # exp-seq-psql-mongo-red-starter
+<div align="center">
+  
+ # exp-seq-psql-mongo-red-starter
+  
   <div style="display: flex">
     <a href="https://nodejs.org/en/">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>  
@@ -20,5 +22,7 @@
       <img src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg" alt="Redis"  width="50" height="50"/> 
     </a>
   </div>
-  A Node.js express back-end starter to save your time with Sequelize, Postgres, Mongo and Redis integration.
+  
+A Node.js express back-end starter to save your time with Sequelize, Postgres, Mongo and Redis integration.
+
 </div>
