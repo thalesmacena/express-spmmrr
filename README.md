@@ -4,6 +4,9 @@
     <a href="https://nodejs.org/en/">
       <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>  
     </a>
+     <a href="https://expressjs.com/pt-br/">
+      <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js"  width="100"/>  
+    </a>
     <a href="https://sequelize.org/master/">
       <img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="Sequelize"  width="50" height="50"/>
     </a>
