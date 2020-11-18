@@ -30,6 +30,8 @@
 
   </div>
 
+</div>
+
 A Node.js express back-end starter to save your time with Sequelize, Postgres, Mongo and Redis integration. With Redoc to serve the API Specification.
 
 ## What's included?
@@ -45,8 +47,6 @@ A Node.js express back-end starter to save your time with Sequelize, Postgres, M
 - Multer
 - bcrypt
 - jsonwebtoken
-
-</div>
 
 ## Configuring the application
 First clone this application in the repository you want. In the future this process will be easier. Then delete the .git folder and the others .gitignore.
