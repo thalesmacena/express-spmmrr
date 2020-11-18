@@ -47,7 +47,7 @@ A Node.js express back-end starter to save your time with Sequelize, Postgres, M
 - jsonwebtoken
 
 ## Configuring the application
-First clone this application in the repository you want. In the future this process will be easier. Then delete the .git folder.
+First clone this application in the repository you want. In the future this process will be easier. Then delete the .git folder and the others .gitignore.
 ### Set Databases
 Then, create a Postgres and Mongodb database and a Redis image. I recommend using Docker, and use Postbird and mongodb compass to create a new database respectively.
 
