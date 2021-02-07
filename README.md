@@ -4,7 +4,7 @@
 
   <div style="display: flex">
     <a href="https://nodejs.org/en/">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.JS"  width="50" height="50"/>
     </a>
      <a href="https://expressjs.com/pt-br/">
       <img src="https://expressjs.com/images/express-facebook-share.png" alt="Express.js"  width="100"/>
@@ -13,16 +13,16 @@
       <img src="https://sequelize.org/master/manual/asset/logo-small.png" alt="Sequelize"  width="50" height="50"/>
     </a>
    <a href="https://www.postgresql.org/">
-      <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"  width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"  width="50" height="50"/>
     </a>
     <a href="https://mongoosejs.com/">
       <img src="https://images.opencollective.com/frontendmasters/0b9cda4/logo/256.png" alt="Mongoose"  width="50" height="50"/>
     </a>
     <a href="https://www.mongodb.com/">
-      <img src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original.svg" alt="MongoDB"  width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"  width="50" height="50"/>
     </a>
     <a href="https://redis.io/">
-      <img src="https://devicon.dev/devicon.git/icons/redis/redis-original.svg" alt="Redis"  width="50" height="50"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis"  width="50" height="50"/>
     </a>
     <a href="https://github.com/Redocly/redoc">
       <img src="https://res.cloudinary.com/apideck/image/upload/v1594740999/icons/redoc.png" alt="ReDoc"  width="50" height="50"/>
